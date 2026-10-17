@@ -4,7 +4,7 @@
 
 This fork contains additional improvements focused mainly on **DeepSeek agent reliability**, including automatic rate-limit recovery and improved `<ds_safety>` rendering.
 
-![GitHub stars](https://github.com/MaciekGos/ZeroScript-Free-DeepSeek-Ban-Update?style=social)
+
 ![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20macOS-lightgrey)
 ![License](https://img.shields.io/badge/license-GPL--3.0-blue)
 
