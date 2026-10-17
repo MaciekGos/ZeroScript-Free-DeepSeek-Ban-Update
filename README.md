@@ -24,7 +24,6 @@ Control Roblox Studio with AI directly from your browser - read/edit scripts, ru
 
 The fork changes were tested with `node --check`, jsdom DeepSeek DOM captures, streaming and closed `<ds_safety>` cases, multi-paragraph notices, real DOM elements, reasoning-area handling and rate-limit detection.
 
-The complete live reload → reconnect → resume flow has not yet been tested in a full production DeepSeek session.
 
 ---
 
