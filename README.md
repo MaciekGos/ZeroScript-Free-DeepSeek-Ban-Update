@@ -4,7 +4,6 @@
 
 This fork contains additional improvements focused mainly on **DeepSeek agent reliability**, including automatic rate-limit recovery and improved `<ds_safety>` rendering.
 
-
 ![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20macOS-lightgrey)
 ![License](https://img.shields.io/badge/license-GPL--3.0-blue)
 
@@ -24,6 +23,9 @@ Control Roblox Studio with AI directly from your browser - read/edit scripts, ru
 
 The fork changes were tested with `node --check`, jsdom DeepSeek DOM captures, streaming and closed `<ds_safety>` cases, multi-paragraph notices, real DOM elements, reasoning-area handling and rate-limit detection.
 
+**Note:** During longer testing sessions, it became clear that the original rate-limit issue may still occur in rare cases. However, it is now much more limited because the fork attempts to prevent repeated requests immediately after detecting the first rate-limit message.
+
+In one test, DeepSeek still temporarily prevented me from sending messages for several minutes despite the protection. I hope to identify the exact cause of this remaining issue in a future update and completely eliminate it.
 
 ---
 
