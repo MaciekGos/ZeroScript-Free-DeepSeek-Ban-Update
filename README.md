@@ -2,9 +2,6 @@
 
 > ⚠️ **This is a fork of [ZeroScript - Free AI Agent for Roblox Studio](https://github.com/sebattfg/ZeroScript-Free).**
 
-> 🚀 **A separate tool of my own is coming soon.**  
-> I am currently waiting for a response from DeepSeek to confirm whether the planned integration complies with their terms and policies. If I receive confirmation, the project will be released as a standalone tool, separate from this ZeroScript fork.
-
 This fork contains additional improvements focused mainly on **DeepSeek agent reliability**, including automatic rate-limit recovery and improved `<ds_safety>` rendering.
 
 ![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20macOS-lightgrey)
