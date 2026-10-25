@@ -5,7 +5,7 @@
 This fork contains additional improvements focused mainly on **DeepSeek agent reliability**, including automatic rate-limit recovery and improved `<ds_safety>` rendering.
 
 ![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20macOS-lightgrey)
-![License](https://img.shields.io/badge/license-GPL--3.0--blue)
+![License](https://img.shields.io/badge/license-GPL--3.0-blue)
 
 **ZeroScript** is a free browser extension that turns ChatGPT, DeepSeek, Gemini, Kimi, GLM, Qwen, Arena or Meta AI into a Roblox Studio AI agent.  
 Control Roblox Studio with AI directly from your browser - read/edit scripts, run Luau, generate assets, all from a normal AI chat. No API key, no terminal, no coding needed.
