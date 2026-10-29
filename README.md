@@ -4,11 +4,11 @@
 >
 > After further testing and feedback from multiple users, it became clear that this fork does not completely solve the DeepSeek issues. Several users reported that it still does not work correctly, and DeepSeek rate limits and temporary bans can still occur.
 
-> 🚀 **I created my own Roblox AI agent as a separate project: [LuaPilot](https://github.com/MaciekGos/LuaPilot)**
+> 🚀 **I created my own Roblox AI agent as a separate project: [LuauPilot](https://github.com/MaciekGos/LuauPilot)**
 >
-> **LuaPilot is my current project and the recommended alternative to this fork.**
+> **LuauPilot is my current project and the recommended alternative to this fork.**
 >
-> 👉 **[Try LuaPilot →](https://github.com/MaciekGos/LuaPilot)**
+> 👉 **[Try LuauPilot →](https://github.com/MaciekGos/LuauPilot)**
 
 ---
 
